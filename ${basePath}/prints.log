@@ -1,0 +1,4 @@
+11:40:17.107 [main] INFO  Log4J - Info
+11:40:17.122 [main] ERROR Log4J - Error
+11:40:50.568 [main] INFO  Log4J - Info
+11:40:50.581 [main] ERROR Log4J - Error

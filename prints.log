@@ -1,0 +1,10 @@
+11:41:40.117 [main] INFO  Log4J - Info
+11:41:40.134 [main] ERROR Log4J - Error
+11:42:15.624 [main] INFO  Log4J - Info
+11:42:15.641 [main] ERROR Log4J - Error
+11:42:15.641 [main] DEBUG Log4J - debug
+11:42:15.641 [main] TRACE Log4J - trace
+11:42:39.614 [main] INFO  Log4J - Info
+11:42:39.628 [main] ERROR Log4J - Error
+11:42:39.628 [main] DEBUG Log4J - debug
+11:42:39.629 [main] TRACE Log4J - trace
